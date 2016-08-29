@@ -3,4 +3,4 @@
 [nodejs官网]:https://nodejs.org/en/    "nodejs"
 
 检测是否安装成功,运行cmd，输入node -v
-![node](C:\Users\Administrator\Desktop\gitbook相关截图\nodejs安装.png)
+![node](C:/Users/Administrator/Desktop/gitbook相关截图/nodejs安装.png)
