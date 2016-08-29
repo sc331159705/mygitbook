@@ -6,4 +6,5 @@
     * [GitBook](gitbook.md)
     * [Git](git.md)
     * [GitBookEditor](gitbookeditor.md)
+* [GitBookEditor使用](gitbookeditor使用.md)
 
