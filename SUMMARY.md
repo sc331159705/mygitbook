@@ -4,4 +4,6 @@
 * [安装准备](chapter1.md)
     * [Node.js](nodejs.md)
     * [GitBook](gitbook.md)
+    * Git
+    * [GitBookEditor](gitbookeditor.md)
 
