@@ -3,4 +3,5 @@
 [nodejs官网]:https://nodejs.org/en/    "nodejs"
 
 检测是否安装成功,运行cmd，输入node -v
+
 ![](/assets/nodejs安装.PNG)
